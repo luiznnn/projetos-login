@@ -48,6 +48,7 @@ section#login > div#imagem{
     background-size: cover;
     background-position: center;
     height: 200px;
+    
 
 }
 
@@ -55,5 +56,15 @@ section#login > div#formulario{
     display: block;
     padding: 10px;
 
+
+}
+
+div#formulario > h1{
+    font-size: 2em;
+    
+}
+
+div#formulario > p{
+    font-size: 1.2em;
 
 }
